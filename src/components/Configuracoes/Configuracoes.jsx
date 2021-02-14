@@ -10,7 +10,7 @@ function Configuracao() {
   return (
     <>
       <Jumbotron style={{ backgroundColor: "#282c34" }}>
-        <h1><b>DESAFIOS E SOLUÇÔES NA CONSTRUÇÂO DA APLICAÇÂO</b></h1>
+        <h1><b>DESAFIOS E SOLUÇÔES NA CONSTRUÇÃO DA APLICAÇÃO</b></h1>
         <Table striped bordered hover style={{ color: "white" }}>
           <thead>
             <tr>

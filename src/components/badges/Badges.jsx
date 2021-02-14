@@ -5,7 +5,7 @@ import Configuracao from "../Configuracoes/Configuracoes"
 import Proposito from "../Proposito/Proposito"
 import Funcionalidades from "../Funcionalidades/Funcionalidades"
 import Charts from "../Charts/Charts"
-
+import Configuracoes from "../Configuracoes/Configuracoes"
 function Badges() {
 
   return (
@@ -40,6 +40,7 @@ function Badges() {
       <br></br>
 
       <Charts/>
+      <Configuracoes/>
       <Funcionalidades/>
       
 
