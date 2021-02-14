@@ -1,7 +1,9 @@
 import React from "react";
 import { Carousel } from "react-bootstrap";
 import Styled from "styled-components";
-import imagem1 from "../../../logo.svg";
+import imagem1 from "./entra21.jpg";
+import imagem2 from "./proway.png";
+
 import { useState } from "react";
 
 
@@ -11,21 +13,13 @@ const CarouselStyled = Styled(Carousel)`
 `;
 
 function CarouselMainPage() {
-
-  const [index, setIndex] = useState(0);
-
-  const handleSelect = (selectedIndex, e) => {
-    setIndex(selectedIndex);
-  };
   
 
   return (
-
-    
-    <CarouselStyled >
+    <CarouselStyled>
       <Carousel.Item>
         <img
-          height="360px"
+          height="360"
           className="d-block w-100"
           src={imagem1}
           alt="First slide"
@@ -35,7 +29,7 @@ function CarouselMainPage() {
         <img
           height="360px"
           className="d-block w-100"
-          src={imagem1}
+          src={imagem2}
           alt="First slide"
         />
       </Carousel.Item>
@@ -44,7 +38,7 @@ function CarouselMainPage() {
         <img
           height="360px"
           className="d-block w-100"
-          src={imagem1}
+          src={imagem2}
           alt="First slide"
         />
       </Carousel.Item>
