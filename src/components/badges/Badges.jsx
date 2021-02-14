@@ -10,7 +10,6 @@ function Badges() {
   return (
     <>
       <br></br>
-      <br></br>
       <article>
         <Container style={{ color: "orange" }}>
           <h1><b>ACHEBARATO WEB-APLICATION</b></h1>
@@ -19,7 +18,7 @@ function Badges() {
       <Proposito/>
 
       <table>
-        <h1><b>TECHNOLOGIES</b></h1>
+        <h1><b>TECNOLOGIAS</b></h1>
 
         <Badge name="C Sharp" style={{ width: 200, padding: 10 }} logoColor="#daeeeb" />
         <Badge name=".NET" style={{ width: 200, padding: 10 }} logoColor="#c53af0" />
