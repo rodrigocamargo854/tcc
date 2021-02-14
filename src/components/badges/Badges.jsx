@@ -4,6 +4,7 @@ import { Jumbotron, Table, Container } from "react-bootstrap"
 import Configuracao from "../Configuracoes/Configuracoes"
 import Proposito from "../Proposito/Proposito"
 import Funcionalidades from "../Funcionalidades/Funcionalidades"
+import Charts from "../Charts/Charts"
 
 function Badges() {
 
@@ -35,9 +36,12 @@ function Badges() {
         <Badge name="Linux" style={{ width: 200, padding: 10 }} logoColor="#f2f5cc" />
 
       </table>
-      <Configuracao/>
-      <Funcionalidades/>
+      <br></br>
+      <br></br>
 
+      <Charts/>
+      <Funcionalidades/>
+      
 
     </>
   );
