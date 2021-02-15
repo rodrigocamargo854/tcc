@@ -14,7 +14,7 @@ function Configuracao() {
         <Table striped bordered hover style={{ color: "white" }}>
           <thead>
             <tr>
-              <th>QUERYS COMPLEXAS </th>
+              <th>QUERIES COMPLEXAS </th>
               <th>PERFORMANCES</th>
               <th>DEPLOY PARA AWS</th>
               <th>APLICAÇÂO MONOLÌTICA</th>
