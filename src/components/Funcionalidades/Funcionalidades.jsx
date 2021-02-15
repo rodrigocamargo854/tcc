@@ -22,7 +22,6 @@ function Funcionalidades() {
         <P>Exibição da lista de produtos favoritados pelo usuário;</P>
         <P>Filtração de melhores preços por produto;</P>
         <P>Histórico de preços do produto.</P>
-        <img src="./logoicone.png" alt=""/>
       </Jumbotron>
     </>
   );
