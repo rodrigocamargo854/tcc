@@ -18,7 +18,7 @@ function Badges() {
         </Container>
       </article>
       <Proposito/>
-      <hr/>
+      <Funcionalidades/>
       <table>
        <strong><h1><b>TECNOLOGIAS</b></h1></strong> 
 
@@ -39,11 +39,11 @@ function Badges() {
       <br></br>
       <br></br>
 
-      <Charts/>
       <Configuracoes/>
-      <Funcionalidades/>
+      <Charts/>
+      <br/>
+      <img src="./logoicone.png" alt=""/>
       
-
     </>
   );
 }
