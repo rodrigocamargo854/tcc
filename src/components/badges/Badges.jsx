@@ -41,7 +41,7 @@ function Badges() {
       <br></br>
 
       <strong><h1><b>FLUXO DA APLICAÇÃO</b></h1></strong> 
-      <img src="./fluxograma.jpg" alt=""/>
+      <img src="./fluxograma.jpg" class="img-fluid"  alt=""/>
       <Configuracoes/>
       <Charts/>
       <br/>
