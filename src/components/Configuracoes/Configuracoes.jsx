@@ -14,7 +14,7 @@ function Configuracao() {
             <strong>Construção do motor de busca</strong>
             <ul>
               <li>Pesquisa de produtos não perfomática</li>
-              <li>Query complexas para filtros de pesquisa na base de dados</li>
+              <li>Queries  complexas para filtros de pesquisa na base de dados</li>
             </ul>
             <strong>Solução</strong>
             <ul>
