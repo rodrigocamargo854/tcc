@@ -45,7 +45,7 @@ function Badges() {
       <Configuracoes/>
       <Charts/>
       <br/>
-      <img src="./logoicone.png" alt=""/>
+      <img src="./logoicone.png" style ={{margin:-50}} alt=""/>
       
     </>
   );

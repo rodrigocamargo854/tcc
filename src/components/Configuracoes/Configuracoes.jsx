@@ -6,7 +6,7 @@ function Configuracao() {
   return (
     <>
       <Jumbotron style={{ backgroundColor: "#282c34" }}>
-        <h1>
+        {/* <h1>
           <b>DESAFIOS E SOLUÇÔES NA CONSTRUÇÃO DA APLICAÇÃO</b>
         </h1>
         <ol>
@@ -54,7 +54,8 @@ function Configuracao() {
             </ul>
           </li>
           <li><strong>Construção do Front-End utilizando React</strong></li>
-        </ol>
+        </ol> */}
+        <img src="./000.png" class="img-fluid"  alt=""/>
       </Jumbotron>
     </>
   );

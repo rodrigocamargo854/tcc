@@ -6,11 +6,7 @@ function Charts() {
 
   return (
     <>
-    <h1>Desafios futuros</h1>
-    <ul>
-      <li>Ampliar motor de busca a mais lojas confiáveis</li>
-      <li>Deploy na AWS</li>
-    </ul>
+    
       {/* <Chart 
         width={300}
         chartType="PieChart"
