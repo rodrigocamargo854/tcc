@@ -6,6 +6,9 @@ import Proposito from "../Proposito/Proposito"
 import Funcionalidades from "../Funcionalidades/Funcionalidades"
 import Charts from "../Charts/Charts"
 import Configuracoes from "../Configuracoes/Configuracoes"
+import Footer from "../Footer/Footer"
+
+
 function Badges() {
 
   return (
@@ -45,8 +48,7 @@ function Badges() {
       <Configuracoes/>
       <Charts/>
       <br/>
-      <img src="./logoicone.png" style ={{margin:-50}} alt=""/>
-      
+      <Footer/>
     </>
   );
 }

@@ -16,9 +16,12 @@ function Funcionalidades() {
   return (
     <>
       <Jumbotron style={{ backgroundColor: "#282c34" }}>
-        <Tittle>FUNCIONALIDADES</Tittle>
+        <Tittle>
+          <strong>FUNCIONALIDADES</strong>
+          
+          </Tittle>
         <br/>
-        <P>Notificação via e-mail ou WhatsApp quando o produto desejável se encontra no preço esperado;</P>
+        <P>Notificação via e-mail e SMS quando o produto desejável se encontra no preço esperado;</P>
         <P>Recomendações de produtos com base nas recentes pesquisas do usuário;</P>
         <P>Exibição da lista de produtos favoritados pelo usuário;</P>
         <P>Filtração de melhores preços por produto;</P>
