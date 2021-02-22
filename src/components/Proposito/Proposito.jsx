@@ -15,7 +15,7 @@ function Proposito() {
         <br></br>
         <h2>
           Oferecer versatilidade para buscas em ofertas e produtos priorizando
-          vendededores e lojas com alta classificação na plataforma MercadoLivre por meio de WebCrawler.
+          vendedores e lojas com alta classificação na plataforma MercadoLivre por meio de WebCrawler.
         </h2>  
       </Jumbotron>
     </>
