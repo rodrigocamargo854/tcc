@@ -31,15 +31,17 @@ function Badges() {
         <Badge name="RabbitMQ" style={{ width: 250, padding: 10 }} logoColor="#d1df0d" />
         <Badge name="MongoDB" style={{ width: 250, padding: 10 }} logoColor="#6eee33" />
         <Badge name="GitHub" style={{ width: 250, padding: 10 }} logoColor="#e8d9ec" />
-        <Badge name="Amazon AWS" style={{ width: 300, padding: 10 }} logoColor="#1a04e0" />
+        <Badge name="TypeScript" style={{ width: 300, padding: 10 }} logoColor="#fcfc04" />
         <Badge name="Swagger" style={{ width: 250, padding: 10 }} logoColor="#ae0ddf" />
-        <Badge name="JavaScript" style={{ width: 250, padding: 10 }} logoColor="#e7ec98" />
+        <Badge name="JavaScript" style={{ width: 250, padding: 10 }} logoColor="#e8e9dd" />
         <Badge name="React" style={{ width: 250, padding: 10 }} logoColor="#15a3e6" />
-        <Badge name="Bootstrap" style={{ width: 250, padding: 10 }} logoColor="#d1df0d" />
+        <Badge name="Bootstrap" style={{ width: 250, padding: 10 }} logoColor="#ecece2" />
         <Badge name="Linux" style={{ width: 250, padding: 10 }} logoColor="#f2f5cc" />
         <Badge name="styled-components" style={{ width: 350, padding: 10 }} logoColor="#f2f5cc" />
         <Badge name="Vercel" style={{ width: 200, padding: 10 }} logoColor="#f2f5cc" />
       </table>
+      <br></br>
+      <br></br>
       <br></br>
       <br></br>
 
