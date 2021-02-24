@@ -14,7 +14,6 @@ function Funcionalidades() {
         <br/>
         <P>Notificações via e-mail ou sms quando o produto desejável se encontrar no preço esperado;</P>
         <P>Recomendações de produtos com base nas recentes pesquisas do usuário;</P>
-        <P>Exibição da lista de produtos favoritados pelo usuário;</P>
         <P>Filtro dos melhores preços por produto;</P>
         <P>Histórico de preços do produto.</P>
         <br/>
